@@ -1,9 +1,12 @@
-  bug-fix-typo e3032ac [origin/bug-fix-typo] Another small change
-* main         e3032ac [origin/main: ahead 2] Another small change
+]633;E;git branch -vv;a71a9aa3-c264-4a17-b374-5cc86eceb66c]633;C  bug-fix-revert 035c4ea [origin/bug-fix-revert] One more typo fix
+  bug-fix-typo   e3032ac [origin/bug-fix-typo] Another small change
+* main           035c4ea [origin/main] One more typo fix
 ----
+  bug-fix-revert
   bug-fix-typo
 * main
   remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-revert
   remotes/origin/bug-fix-typo
   remotes/origin/main
   remotes/upstream/HEAD -> upstream/main

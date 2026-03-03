@@ -1,7 +1,8 @@
-Switched to branch 'main'
-Your branch is ahead of 'origin/main' by 1 commit.
-  (use "git push" to publish your local commits)
-Updating fb290b6..e3032ac
-Fast-forward
- README.md | 1 +
- 1 file changed, 1 insertion(+)
+$ git checkout main
+Already on 'main'
+M	forked-repo
+M	merge_branches
+Your branch is up to date with 'origin/main'.
+
+$ git merge bug-fix-typo
+Already up to date.
